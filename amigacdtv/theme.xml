@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1991  ·  16-BIT MULTIMEDIA PC</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The CDTV (from Commodore Dynamic Total Vision) is a home multimedia entertainment and video game console developed by Commodore International and launched in April 1991.</text>
+  </text>
+ </view>
+</theme>

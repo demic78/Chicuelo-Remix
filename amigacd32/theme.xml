@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1993  ·  32-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Amiga CD32 is a 32-bit home video-game console developed by Commodore and released in Europe, Australia, Canada and Brazil, based on Amiga 1200 home computer.</text>
+  </text>
+ </view>
+</theme>

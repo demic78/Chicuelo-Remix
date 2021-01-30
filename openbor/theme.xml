@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2006  ·  SOFTWARE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Open Beats of Rage is an open source continuation of the Beats of Rage engine</text>
+  </text>
+ </view>
+</theme>
