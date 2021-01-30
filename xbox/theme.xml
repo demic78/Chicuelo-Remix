@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2001  ·  '32-BIT' CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Xbox is a home video game console and the first installment in the Xbox series of video game consoles manufactured by Microsoft.</text>
+  </text>
+ </view>
+</theme>
